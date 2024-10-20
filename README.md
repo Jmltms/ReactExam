@@ -48,5 +48,4 @@ export default tseslint.config({
   },
 });
 ```
-
-<!-- author of this project: jimueltomas87@gmail.com -->
+ author of this project: jimueltomas87@gmail.com 
