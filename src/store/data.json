@@ -1,0 +1,84 @@
+{
+  "gameInfo": [
+    {
+      "id": 1,
+      "gameProvider": "INBET",
+      "category": "New",
+      "name": "Game 1",
+      "image": "../../../public/games/game1.jpg",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "gameProvider": "INBET",
+      "category": "Live",
+      "name": "Game 2",
+      "image": "../../../public/games/game2.jpg",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "gameProvider": "NETENT",
+      "category": "New",
+      "name": "Game 3",
+      "image": "../../../public/games/game3.jpg",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "gameProvider": "NETENT",
+      "category": "Live",
+      "name": "Game 4",
+      "image": "../../../public/games/game4.jpg",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "gameProvider": "MPLAY",
+      "category": "Slots",
+      "name": "Game 5",
+      "image": "../../../public/games/game5.jpg",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "gameProvider": "MPLAY",
+      "category": "Jackpot",
+      "name": "Game 6",
+      "image": "../../../public/games/game6.jpg",
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "gameProvider": "PLAYTECH",
+      "category": "Slots",
+      "name": "Game 7",
+      "image": "../../../public/games/game7.jpg",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "gameProvider": "PLAYTECH",
+      "category": "Jackpot",
+      "name": "Game 8",
+      "image": "../../../public/games/game8.jpg",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "gameProvider": "EVOLUTION",
+      "category": "Slots",
+      "name": "Game 9",
+      "image": "../../../public/games/game9.jpg",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "gameProvider": "EVOLUTION",
+      "category": "Jackpot",
+      "name": "Game 10",
+      "image": "../../../public/games/game10.jpg",
+      "favorite": false
+    }
+  ]
+}
